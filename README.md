@@ -155,7 +155,7 @@ The dashboard includes the following KPIs:
 
 # Author 
   Ajibade Segun Ezekiel 
-  Data Analyst 
+  Data Analyst| 
   SQL|Power BI |Excel
 
   Decodelabs Intern
