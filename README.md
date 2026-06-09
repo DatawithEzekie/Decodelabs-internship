@@ -101,7 +101,7 @@ The dashboard includes the following KPIs:
   
   Chair - 562 units Printer - 542 units Laptop - 535 units  
 
-  These product account for a significant portion of total sales volume 
+  These product account for a significant portion of total sales volume. 
 
 # 4. Revenue Is Fairy Distributed Across Products
 
@@ -127,7 +127,7 @@ The dashboard includes the following KPIs:
 
  The business experienced significant growth leading into mid-year before declining during the second half.
 
-# 7. Revenue Is Fairy Distributed Across Products
+# 7. Order Status Distribution Is Relatively Even 
 
  Order statuses are distributed almost equally:
 
